@@ -65,3 +65,7 @@ footer{
     padding-bottom: 3rem;
     color: white;
 }
+#redes a{
+    color:white;
+    text-decoration: none;
+}
